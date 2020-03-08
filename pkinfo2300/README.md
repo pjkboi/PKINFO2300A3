@@ -1,5 +1,8 @@
 # pkinfo2300
-
+## PJ Khamvongsa
+...
+Run these commands in the command prompt 
+...
 ## Project setup
 ```
 npm install
